@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-19",
+  "events": [
+    {
+      "id": "rakuten-marathon-2026-09-19",
+      "category": "rakuten",
+      "name": "楽天お買い物マラソン",
+      "shortName": "楽天マラソン",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-24",
+      "startTime": "20:00",
+      "endTime": "01:59",
+      "sourceUrl": "https://event.rakuten.co.jp/campaign/point-up/marathon/20260919efhmz/multicoupon/"
+    },
+    {
+      "id": "traffic-autumn-2026",
+      "category": "traffic",
+      "name": "秋の全国交通安全運動",
+      "shortName": "交通安全運動",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-30",
+      "sourceUrl": "https://www8.cao.go.jp/koutu/keihatsu/undou/r08_aki/youkou.html"
+    },
+    {
+      "id": "traffic-zero-2026-09-30",
+      "category": "traffic",
+      "name": "交通事故死ゼロを目指す日",
+      "shortName": "事故ゼロの日",
+      "startDate": "2026-09-30",
+      "endDate": "2026-09-30",
+      "sourceUrl": "https://www8.cao.go.jp/koutu/keihatsu/undou/r08_aki/youkou.html"
+    }
+  ],
+  "cancelledIds": []
+}
