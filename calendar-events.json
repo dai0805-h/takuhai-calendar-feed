@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02",
+  "updatedAt": "2026-10-12",
   "events": [
     {
       "id": "rakuten-marathon-2026-09-19",
@@ -40,6 +40,17 @@
       "endDate": "2026-10-09",
       "startTime": "20:00",
       "endTime": "01:59",
+      "sourceUrl": "https://event.rakuten.co.jp/campaign/point-up/marathon/"
+    },
+    {
+      "id": "rakuten-marathon-2026-10-14",
+      "category": "rakuten",
+      "name": "楽天お買い物マラソン",
+      "shortName": "楽天マラソン",
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-17",
+      "startTime": "20:00",
+      "endTime": "09:59",
       "sourceUrl": "https://event.rakuten.co.jp/campaign/point-up/marathon/"
     }
   ],
